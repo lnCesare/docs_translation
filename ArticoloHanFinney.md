@@ -1,6 +1,6 @@
 ### Politica vs tecnologia, Hal Finney, 2 Gennaio 1994
 
-Al giorno d’oggi possono i governi bandire efficacemente un libro? Chiaramente no, o perlomeno non dopo che una persona l’ha trascritto o scannerizzato, e successivamente caricato su un computer. I prodotti caricati su dispositivi elettronici sono, nella maggior parte dei casi, permanenti. L’approccio politico è utile solamente come arma tattica, per rallentare la diffusioneop di questi contenuti fino a quando delle soluzioni tecnologiche non sono implementate. Se vuoi cambiare il mondo non protestare; Scrivi!
+Al giorno d’oggi possono i governi bandire efficacemente un libro? Chiaramente no, o perlomeno non dopo che una persona l’ha trascritto o scannerizzato, e successivamente caricato su un computer. I prodotti caricati su dispositivi elettronici sono, nella maggior parte dei casi, permanenti. L’approccio politico è utile solamente come arma tattica, per rallentare la diffusione di questi contenuti fino a quando delle soluzioni tecnologiche non sono implementate. Se vuoi cambiare il mondo non protestare; Scrivi!
 
 Ho come l’impressione che questa posizione diventerà un dogma per i cypherpunks, ma non sono d’accordo. Il pensiero secondo cui possiamo “annegare” nel cyber spazio e ignorare una sgradevole realtà politica è del tutto irrealistico, secondo me.
 
