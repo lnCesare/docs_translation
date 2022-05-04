@@ -1,15 +1,4 @@
-<p align="center">
-    <font size="+5"> Bit Gold
-    <font size="+3">
-</p>
-<p align="center">
-    <font size="+4"> Nick Szabo
-    <font size="+3">
-</p>
-<p align="center">
-    <font size="+3"> 20 dicembre 2005
-    <font size="+2">
-</p>
+## Bitgold, Nick Szabo, 29 Dicembre 2005
 
 Un po’ di tempo fa mi sono imbattuto nel concetto di “Bit Gold”. Il
 problema, riassunto in poche parole, è che al giorno d’oggi il valore
